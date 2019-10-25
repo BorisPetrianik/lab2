@@ -1,0 +1,3 @@
+[submodule "modules/giflow"]
+	path = modules/giflow
+	url = https://github.com/nvie/gitflow.git
