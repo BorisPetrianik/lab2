@@ -1,0 +1,22 @@
+commit 7f514975f8a1b95ae6411e77cc33ce9ed91703c7
+Author: BorisPetrianik <borispetrianik@gmail.com>
+Date:   Fri Oct 25 14:46:23 2019 +0300
+
+    initial commit
+
+ .vscode/launch.json          |  11 +++
+ .vscode/settings.json        |   3 +
+ CalcPanel$1.class            | Bin 0 -> 687 bytes
+ CalcPanel$Action.class       | Bin 0 -> 1507 bytes
+ CalcPanel$ActionButton.class | Bin 0 -> 3028 bytes
+ CalcPanel.class              | Bin 0 -> 4706 bytes
+ CalcPanel.java               | 195 +++++++++++++++++++++++++++++++++++++++++++
+ Calculator.class             | Bin 0 -> 541 bytes
+ Calculator.java              |  56 +++++++++++++
+ JUnitTest.java               |  24 ++++++
+ guiCalc.class                | Bin 0 -> 1336 bytes
+ guiCalc.java                 |  28 +++++++
+ lib/hamcrest-core-1.3.jar    | Bin 0 -> 45024 bytes
+ lib/junit-4.12.jar           | Bin 0 -> 314932 bytes
+ path.classpath               |   1 +
+ 15 files changed, 318 insertions(+)
